@@ -1,0 +1,9 @@
+{
+  "name": "Brief33",
+  "short_name": "Brief33",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1E33",
+  "theme_color": "#0A1E33",
+  "icons": []
+}
